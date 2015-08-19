@@ -1,6 +1,6 @@
 {
   "name": "micro-packager",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Library to extract part of an npm package and create a new smaller npm package that contains only the component pieces required.",
   "main": "index.js",
   "scripts": {
