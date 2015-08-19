@@ -1,5 +1,5 @@
 # Micro Packager
-Library to extract part of an npm package and create a new smaller npm package that contains only the component peices required.  Just point the packager to the main root file and the application will be spidered and pull in all required dependencies.
+Library to extract part of an npm package and create a new smaller npm package that contains only the component pieces required.  Just point the packager to the main root file and the application will be spidered and pull in all required dependencies.
 
 In addition to extracting the smaller application, there is also the option to deploy to AWS Lambda to run the smaller application as a function.
 

@@ -1,0 +1,23 @@
+{
+  "name": "micro-packager",
+  "version": "0.0.1",
+  "description": "Library to extract part of an npm package and create a new smaller npm package that contains only the component pieces required.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jasonfill/micro-packager.git"
+  },
+  "keywords": [
+    "packager",
+    "lambda"
+  ],
+  "author": "Jason Fill",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jasonfill/micro-packager/issues"
+  },
+  "homepage": "https://github.com/jasonfill/micro-packager"
+}
